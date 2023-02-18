@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joshflores
-- 👀 I’m interested in developing beautiful and functional sites, I mainly work with ReactJs, C#/.NET, and SQL.
-- 🌱 I’m currently learning more about my stack! @.@
+- 👀 I’m interested in developing Full Stack Applications, I'm fluent in ReactJs, C#/.NET, and SQL.
 
 <!---
 joshflores/joshflores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
